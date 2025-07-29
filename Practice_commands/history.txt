@@ -1,0 +1,201 @@
+    1  sudo apt list --upgradable
+    2  sudo apt update && sudo apt upgrade -y
+    3  reboot
+    4  sudo fallocate -4G /swapfile
+    5  sudo fallocate -l 4G /swapfile
+    6  sudo dd if=/dev/zero of=/swapfile bs=1G count=10 status=progress
+    7  swapo
+    8  swapon
+    9  cd /
+   10  ls
+   11  sudo swapoff /swapfile
+   12  swapon
+   13  sudo rm swapfile
+   14  ls
+   15  sudo fallocate -l 4G /swapfile
+   16  sudo chmod 600 /swapfile
+   17  sudo mkswap /swapfile
+   18  sudo swapon /swapfile
+   19  sudo nano /etc/fstab
+   20  swapon
+   21  sudo free -h
+   22  rebot
+   23  reboot
+   24  neofetch
+   25  dkpg -l
+   26  dpkg -l
+   27  sudo apt-get --purge remove opera-stable
+   28  sudo aptitude remove opera-stable
+   29  dpkg -l
+   30  sudo apt update
+   31  sudo apt install apt-transport-https ca-certificates curl software-properties-common
+   32  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+   33  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable"
+   34  apt-cache policy docker-ce
+   35  sudo apt install docker-ce
+   36  sudo systemctl status docker
+   37  docker
+   38  sudo apt install awesome
+   39  logout
+   40  poweroff
+   41  sudo apt-get remove awesome
+   42  sudo apt-get remove -auto-remove awesome
+   43  sudo apt-get remove --auto-remove awesome
+   44  sudo xargs rm < install_manifest.txt
+   45  sudo apt-get purge awesome
+   46  sudo apt-get autoremove  --purge awesome
+   47  sudo apt clean awsome
+   48  make uninstall
+   49  history
+   50  x
+   51  history
+   52  apt list --installed
+   53  ubuntu
+   54  ls
+   55  cd Desktop/
+   56  ls
+   57  cd ..
+   58  ls
+   59  cd Documents/
+   60  ls
+   61  s
+   62  date
+   63  bc
+   64  sudo apt update
+   65  sudo apt upgrade
+   66  echo $SHELL
+   67  echo $shelll
+   68  echo $shell
+   69  printenv SHELL
+   70  whoami
+   71  whereisi
+   72  whereis echo
+   73  info cat
+   74  man cat
+   75  help cat
+   76  sudo apt install gcc
+   77  sudo kill 7191
+   78  sudo dpkg --configure -a
+   79  sudo rm /var/lib/dpkg/lock-frontend
+   80  sudo rm /var/lib/dpkg/lock
+   81  sudo dpkg --configure -a
+   82  sudo apt update
+   83  ps aux | grep '[a]pt'
+   84  clear
+   85  history
+   86  clear
+   87  date
+   88  man date
+   89  cal
+   90  bc <<< "12/5"
+   91  bc <<< "12//5"
+   92  bc <<< "12%5"
+   93  uname
+   94  uname -i
+   95  uname -o
+   96  uname -v
+   97  uname -m
+   98  uname -r
+   99  uname -a
+  100  uname -r
+  101  echo "Welcome to Linux"
+  102  Linux
+  103  echo "THis
+  104  is
+  105  my
+  106  laptop"
+  107  printf "Lixnuxx"
+  108  seq 1 10
+  109  seq 1 2 10
+  110  seq -1 -1 10
+  111  seq -1 1 10
+  112  seq -10 1 10
+  113  rev << LInux
+  114  rev << Linux
+  115  d
+  116  echo $?
+  117  date --date "1 year ago"
+  118  date --day "1 year ago"
+  119  date --help
+  120  ls
+  121  cd Desktop/
+  122  ls
+  123  touch new.txt
+  124  mkdir new1/new2
+  125  mkdir new1
+  126  ls
+  127  move new.txt new1/
+  128  love --help
+  129  mv new.txt new1/
+  130  ls
+  131  cd new1/
+  132  ls
+  133  ls -a
+  134  ls -R
+  135  nano demo
+  136  ls
+  137  wc demo
+  138  wc new.txt 
+  139  sudo apt update
+  140  sudo apt upgrade
+  141  sudo apt install gcc
+  142  echo $?
+  143  sudo apt install ncal
+  144  cat new.txt 
+  145  gedit
+  146  gedit new.txt 
+  147  cat new.txt > new2.txt
+  148  ls
+  149  cat new2.txt 
+  150  cp new.txt new2.txt /..
+  151  sudo cp new.txt new2.txt /..
+  152  ls
+  153  cd /../
+  154  ls
+  155  rm new.txt 
+  156  sudo rm new.txt 
+  157  sudo rm new2.txt 
+  158  ls
+  159  cd us
+  160  cd usr
+  161  ls
+  162  locate Desktop
+  163  sudo apt install plocate
+  164  locate Desktop
+  165  /home/skr/Desktop
+  166  cd /home/skr/Desktop
+  167  ls
+  168  cd new1/
+  169  ls
+  170  mv new.txt a
+  171  ls
+  172  cd a
+  173  cat a
+  174  vi sum.c
+  175  ls
+  176  vi sum.c
+  177  ls
+  178  gcc sum.c
+  179  sudo apt install build-essential
+  180  exit
+  181  info cat
+  182  cd Desktop/
+  183  ls
+  184  cd new1/
+  185  mkdir -p models/agile
+  186  ls
+  187  cd models/
+  188  ls
+  189  options mkdir
+  190  info mkdir
+  191  cd ..
+  192  ls
+  193  mv new2 models/
+  194  man rm
+  195  history
+  196  sudo apt install git
+  197  cd ..
+  198  ls
+  199  cd new1/
+  200  ls
+  201  history >> history.txt
