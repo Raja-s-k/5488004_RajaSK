@@ -9,35 +9,20 @@ Additionally, I took the initiative to complete a course on Agile Development of
 
 I have attached my Agile certification below for reference.
 
+### Great learning certificate
+<img alt = "Simplilearn certificate" src="https://github.com/Raja-s-k/5488004_RajaSK/blob/main/Greatlearning%20certificate/Certificate.png">
+
+
+## Week 2
+Since I have been actively involved in multiple club activities during college, I’ve already had hands-on exposure to Git and version control. As a result, the second week felt more like a refresher for me, helping me brush up on the fundamentals I was already familiar with.
+
+Rajat Sir conducted the sessions with patience, ensuring that even the most basic doubts were addressed clearly before moving forward. His calm approach made the learning environment very comfortable, especially for those new to the topic.
+
+Overall, it was a decent session that helped reinforce the concepts of Git and version control workflows.
+
+I have attached my course completion certificate for the Git module below.
+
 ### Simplilearn certificate
-
-<img alt = "Simplilearn certificate" src="https://github.com/Raja-s-k/5488004_RajaSK/blob/main/Simplilearn%20certificate/Certificate.png">
-
-## Week 2
-Since I have been actively involved in multiple club activities during college, I’ve already had hands-on exposure to Git and version control. As a result, the second week felt more like a refresher for me, helping me brush up on the fundamentals I was already familiar with.
-
-Rajat Sir conducted the sessions with patience, ensuring that even the most basic doubts were addressed clearly before moving forward. His calm approach made the learning environment very comfortable, especially for those new to the topic.
-
-Overall, it was a decent session that helped reinforce the concepts of Git and version control workflows.
-
-I have attached my course completion certificate for the Git module below.
-
-### Great learning certificate
-<img alt = "Simplilearn certificate" src="https://github.com/Raja-s-k/5488004_RajaSK/blob/main/Greatlearning%20certificate/Certificate.png">
-
-=======
-<img alt = "Simplilearn certificate" src="https://github.com/Raja-s-k/5488004_RajaSK/blob/main/Greatlearning%20certificate/Certificate.png">
-
-## Week 2
-Since I have been actively involved in multiple club activities during college, I’ve already had hands-on exposure to Git and version control. As a result, the second week felt more like a refresher for me, helping me brush up on the fundamentals I was already familiar with.
-
-Rajat Sir conducted the sessions with patience, ensuring that even the most basic doubts were addressed clearly before moving forward. His calm approach made the learning environment very comfortable, especially for those new to the topic.
-
-Overall, it was a decent session that helped reinforce the concepts of Git and version control workflows.
-
-I have attached my course completion certificate for the Git module below.
-
-### Great learning certificate
 <img alt = "Simplilearn certificate" src="https://github.com/Raja-s-k/5488004_RajaSK/blob/main/Simplilearn%20certificate/Certificate.png">
 
 ### Week 3
