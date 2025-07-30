@@ -27,10 +27,10 @@ I have attached my course completion certificate for the Git module below.
 
 ### Week 3
 
-I personally use Linux most of the time, so this week’s hands-on session with Linux commands felt quite comfortable for me. On the second day, I practiced all the essential commands on my personal system to reinforce my understanding.
+I personally use Linux most of the time, so this week’s hands-on session with Linux commands felt quite comfortable for me. On the second and thrid day, I practiced all the essential commands on my personal system to reinforce my understanding.
 
 I've uploaded the command outputs as a text file for reference and future revision.
 
 📁 To access the practice history, navigate to:
-*Practice_commands/history.txt* 🙂
+*Practice_commands/history.txt* and *Practice_commands/updatedhistory.txt*🙂
 
