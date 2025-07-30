@@ -32,5 +32,10 @@ I personally use Linux most of the time, so this week’s hands-on session with 
 I've uploaded the command outputs as a text file for reference and future revision.
 
 📁 To access the practice history, navigate to:
-*Practice_commands/history.txt* and *Practice_commands/updatedhistory.txt*🙂
+
+
+*Practice_commands/history.txt* and 
+
+
+*Practice_commands/updatedhistory.txt*🙂
 
