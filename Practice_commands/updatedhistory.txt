@@ -1,0 +1,71 @@
+  268  sudo apt install update
+  269  ls
+  270  cd Desktop/
+  271  ls
+  272  cd new1
+  273  ls
+  274  vi sum.c
+  275  ls
+  276  nano sum.c
+  277  ls
+  278  gcc sum.c && ./a.out
+  279  nano sum.c
+  280  gcc sum.c && ./a.out
+  281  nano sum.c
+  282  gcc sum.c && ./a.out
+  283  ls
+  284  ls -l
+  285  cat sum.c
+  286  tac sum.c
+  287  more filecmd
+  288  more sum.c
+  289  more new2.txt
+  290  less new2.txt 
+  291  less sum.c
+  292  head new2.txt 
+  293  tail new2.txt 
+  294  cut -c 1-3 new2.txt 
+  295  cut -c 1-5 new2.txt 
+  296  cut -c 0-5 new2.txt 
+  297  cut --help
+  298  clear
+  299  cat new2.txt 
+  300  cut -d "_" -f2 new2.txt 
+  301  cut -d "_" -f1 new2.txt 
+  302  nano f1
+  303  sort f1
+  304  ls
+  305  paste -d "
+:" f1 f2
+  306  paste -d "
+:" f1 f2
+  307  paste -d "
+:" f1 f2.txt
+  308  touch f2
+  309  paste -d "
+:" f1 f2.txt
+  310  paste -d "
+:" f1 f2
+  311  tr ':0' | '$' < new2.txt 
+  312  tr ':0' | '$' < f1
+  313  tr ':0' '|$' < f1
+  314  uniq f1
+  315  ls
+  316  diff f1 f2
+  317  grep and f1
+  318  sed 'and' f1
+  319  cat f1
+  320  sed '/and/a Welcom' f1
+  321  awk '{print $0}' f1
+  322  awk '/Alice/' employees.txt
+  323  awk '/Alice/' f1
+  324  awk '/this/' f1
+  325  awk '$2 < 30 {print $1, $2}' f1
+  326  awk 'END {print "Total employees= ", NR}' f1
+  327  ls -l
+  328  ls -l sum.c 
+  329  chmod u+x sum.c 
+  330  ls
+  331  ls -l sum.c 
+  332  ls
+  333  history
