@@ -40,5 +40,12 @@ I've uploaded the command outputs as a text file for reference and future revisi
 *Practice_commands/updatedhistory.txt*🙂
 
 ### Week 4
+
+The fourth week of my training focused on the basics of the C language — including its history, who developed it, how the compilation process works, and how the code is executed.
+
+The SoloLearn course served as a great revision to what I had previously learned, reinforcing my fundamentals and helping me connect the dots between theory and practical application.
+
+I completed the course a day before the submission deadline and earned my certificate, which I’ve attached below.
+
 <img alt = "Sololearn certificate" src="https://github.com/Raja-s-k/5488004_RajaSK/blob/main/Sololearn%20certificate/certificate.jpg">
 
